@@ -1,12 +1,12 @@
 OEE Masterclass: Smart Factory Simulation 🏭
 
-An interactive, "Digital Twin" educational experience designed to teach Overall Equipment Effectiveness (OEE) to manufacturing professionals and MBA students.
+An interactive, "Digital Twin" educational experience designed to teach Overall Equipment Effectiveness (OEE) to students and early professionals
 
 📖 Overview
 
-OEE Masterclass is a single-page web application that simulates a high-speed bottling line. It gamifies the learning of OEE concepts by allowing users to act as a Plant Manager for a day.
+OEE Masterclass is a single-page web application that simulates a high-speed bottling line. It gamifies the learning of OEE concepts by allowing users to act as a Plant Manager for a shift.
 
-Instead of reading dry definitions, users interact with a live production line, diagnosing real-world issues like Equipment Failure, Micro-stops, and process defects to see how they impact efficiency and the bottom line.
+Instead of reading dry definitions, users interact with a live production line, understanding real-world issues like Equipment Failure, Micro-stops, and process defects to see how they impact efficiency and the bottom line.
 
 🚀 Features
 
@@ -58,7 +58,7 @@ Architecture: Single File Component (SFC) - No build step required!
 
 Option 1: Live Web Version
 
-[Link to your GitHub Pages or Netlify URL]
+https://cobra-coder.github.io/OEE-masterclass/
 
 Option 2: Run Locally
 
